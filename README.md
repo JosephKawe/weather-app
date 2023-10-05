@@ -1,42 +1,49 @@
-Weather App
+# Weather App
+
 Bem-vindo ao Weather App, a sua janela para o clima global! Este aplicativo, desenvolvido com as tecnologias mais avançadas, oferece uma experiência de usuário envolvente e funcionalidades poderosas.
 
-Tecnologias de Ponta
-React: A poderosa biblioteca para construção de interfaces de usuário.
-Tailwind CSS: Um framework de estilo utilitário que acelera o desenvolvimento.
-Material Tailwind: Implementação elegante do design Material para Tailwind CSS.
-API de Previsão do Tempo: Dados meteorológicos em tempo real para manter você sempre informado.
-Recursos Incríveis
-Modo Escuro: Proteja seus olhos com nosso elegante modo escuro, projetado para uma experiência noturna suave.
+## Tecnologias de Ponta
 
-Preferências Salvas: Esqueça configurações repetitivas! O aplicativo armazena suas preferências localmente para uma experiência personalizada.
+- **React:** A poderosa biblioteca para construção de interfaces de usuário.
+- **Tailwind CSS:** Um framework de estilo utilitário que acelera o desenvolvimento.
+- **Material Tailwind:** Implementação elegante do design Material para Tailwind CSS.
+- **API de Previsão do Tempo:** Dados meteorológicos em tempo real para manter você sempre informado.
 
-Pesquisa Local: Quer saber o clima em qualquer lugar? Basta pesquisar e obter informações meteorológicas precisas.
+## Recursos Incríveis
 
-Como Iniciar Rapidamente
-Clone o Repositório:
+- **Modo Escuro:** Proteja seus olhos com nosso elegante modo escuro, projetado para uma experiência noturna suave.
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/weather-app.git
-Instale as Dependências:
+- **Preferências Salvas:** Esqueça configurações repetitivas! O aplicativo armazena suas preferências localmente para uma experiência personalizada.
 
-bash
-Copy code
-cd weather-app
-npm install
-Inicie o Aplicativo:
+- **Pesquisa Local:** Quer saber o clima em qualquer lugar? Basta pesquisar e obter informações meteorológicas precisas.
 
-bash
-Copy code
-npm start
-Abra o Navegador:
-Acesse http://localhost:3000 e comece a explorar o clima!
+## Como Iniciar Rapidamente
 
-Contribuições Valiosas
+1. **Clone o Repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/weather-app.git
+    ```
+
+2. **Instale as Dependências:**
+    ```bash
+    cd weather-app
+    npm install
+    ```
+
+3. **Inicie o Aplicativo:**
+    ```bash
+    npm start
+    ```
+
+4. **Abra o Navegador:**
+    Acesse `http://localhost:3000` e comece a explorar o clima!
+
+## Contribuições Valiosas
+
 Aceitamos contribuições! Abra issues ou pull requests para tornar este aplicativo ainda melhor.
 
-Licença
-Este projeto é protegido pela Licença MIT. Sinta-se à vontade para usar e modificar conforme suas necessidades.
+## Licença
 
-Prepare-se para uma jornada imersiva no clima com o Weather App!
+Este projeto é protegido pela [Licença MIT](LICENSE). Sinta-se à vontade para usar e modificar conforme suas necessidades.
+
+**Prepare-se para uma jornada imersiva no clima com o Weather App!**
